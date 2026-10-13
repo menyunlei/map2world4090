@@ -1,0 +1,46 @@
+{
+  "polyline": [
+    [
+      584.3333333333334,
+      903.0
+    ],
+    [
+      579,
+      887
+    ],
+    [
+      572.0,
+      871.0
+    ],
+    [
+      559.8,
+      861.4
+    ],
+    [
+      543.6,
+      859.8
+    ],
+    [
+      523.6,
+      864.8
+    ],
+    [
+      477.4,
+      878.1999999999999
+    ],
+    [
+      395.4,
+      902.1999999999999
+    ]
+  ],
+  "image_size": [
+    1080,
+    2280
+  ],
+  "source": "Turn-event window selected from the frozen map10 left-turn design",
+  "full_route_name": "map10_main_street_left_turn",
+  "window_length_m_estimate": 18.828405539115423,
+  "registered_start_image_pose": false,
+  "proof_of_observed_motion": false,
+  "scope": "Junction approach, left turn, and a short outgoing-street section; not the full 72-second route"
+}

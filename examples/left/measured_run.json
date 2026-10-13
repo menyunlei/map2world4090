@@ -1,0 +1,53 @@
+{
+  "status": "COMPLETE",
+  "wall_s": 202.66996598243713,
+  "source_map_sha256": "066bb11bfc99ebccae10505f235167cb0f9c9dcca06d24343d1328a29842cc7b",
+  "start_frame_sha256": "6e5655c9bc89315533bdb27aa2746c5d21bef70239812217750c6314c8fc8641",
+  "approach_segment_sha256": "e108846ca591bc8338401e8bc37fc8994f2badff3f5c50b80fe5c05ff6898305",
+  "video_sha256": "bc1716ba92f878f8b35ad70a89ab180b0b635d85681bad30989ea9cf994a166d",
+  "training_steps": 0,
+  "single_diffusion_segment": true,
+  "warp_fill": false,
+  "registered_start_image_pose": false,
+  "camera_audit": {
+    "native_actions": [
+      "w",
+      "wj",
+      "wj",
+      "wj",
+      "w",
+      "w",
+      "w",
+      "w",
+      "w",
+      "w",
+      "w",
+      "w"
+    ],
+    "native_signed_yaw_degrees": [
+      5.194428907734693,
+      28.17193709332478,
+      32.55813574386148,
+      19.6767929000834,
+      2.138203443854205,
+      0.0,
+      0.0,
+      0.13940551447986382,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sum_native_yaw_deg": 87.87890360333841,
+    "relative_camera_right_yaw_deg": -87.87890361913834,
+    "unit_speed_prope_path_length": 11.279791831970215,
+    "camera_speed_parameter": 1.6692156929483608,
+    "path_length_units_assumption_m": 18.828405539115423,
+    "source_pose_unregistered": true,
+    "meaning": "Direction verified in actual relative camera matrices; does not prove RGB map registration"
+  },
+  "inference_seconds": 74.6,
+  "new_generated_frames": 193,
+  "fps": 16,
+  "preview_duration_seconds": 17.0625
+}
