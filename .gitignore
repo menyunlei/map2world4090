@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pt
+*.pth
+*.safetensors
+models/Wan2.2-TI2V-5B/
+models/DreamX-World-5B-Cam/
+outputs/
+.venv/
+
