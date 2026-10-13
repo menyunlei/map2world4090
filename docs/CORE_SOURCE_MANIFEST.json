@@ -1,0 +1,258 @@
+[
+  {
+    "path": "LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "path": "README.md",
+    "sha256": "5e72351214b5d78539008114ee4625dfc673d59be69778b5d83b2113ef8f7499"
+  },
+  {
+    "path": "configs/wan2.2/wan_ti2v_5b.yaml",
+    "sha256": "e54858ad8a3b19e5fb539b534b77cb25f1f3a4f0905e1e3df4905a1490c6ec85"
+  },
+  {
+    "path": "dist/__init__.py",
+    "sha256": "a7468a4f4b24d8e021eeada3ebacb2bb85604d7e0bd677dc52b345a73bcc3563"
+  },
+  {
+    "path": "dist/fsdp.py",
+    "sha256": "75a43c32c215359dcaf02b4ba9b3ace90fa09ad82e0893f7b74831921d4fec5d"
+  },
+  {
+    "path": "dist/fuser.py",
+    "sha256": "b7803a240276e15f3eb8844bf8ad7cadf43846df4301eaf4aee7b0bc2557f4bc"
+  },
+  {
+    "path": "dist/wan_xfuser.py",
+    "sha256": "0bea98397cf070b68573cf079378f036af78276a1f2bd5c580ece4a36a5d542f"
+  },
+  {
+    "path": "inference_README.md",
+    "sha256": "3b6c3d0a41925146496d88671200d76f0a94756941494d7084a02045cfd66b2b"
+  },
+  {
+    "path": "inference_long_video.py",
+    "sha256": "b7933348bf03af4094ee4f2cd13667ba12e52e9116fbc1cac803951289370921"
+  },
+  {
+    "path": "map_injector.py",
+    "sha256": "bc57c566ea773e661d102045300309411ff074381ab6a11829a34eca6e2ce687"
+  },
+  {
+    "path": "models/1.py",
+    "sha256": "241d025402fb4b0a2662f2194301ba8c4fb3f4e0c401f5d416d3067be6aefafb"
+  },
+  {
+    "path": "models/__init__.py",
+    "sha256": "15a5e02db6a735419b40884b026d2c7048db7e4376ea1f021e5b5007bd87066f"
+  },
+  {
+    "path": "models/attention_utils.py",
+    "sha256": "85453d9a8f55854e040862ed6695537da61860ebaa10c3b0540a49bb7ca1d281"
+  },
+  {
+    "path": "models/prope_utils.py",
+    "sha256": "97b1276f82cafbc37f79f21938c989c1c66b7cc694d20cff4975ef58824fd8f8"
+  },
+  {
+    "path": "models/semantic_layout_adapter.py",
+    "sha256": "29cc8fdb4dce124659720cc8f13af90a75e6bdadb59b420709c704d4a56e1b2f"
+  },
+  {
+    "path": "models/wan_text_encoder.py",
+    "sha256": "c01aa669ebd1fe43eb04f22f765458b641ee5d3f72e5ec7f683bef6e96b7a3c7"
+  },
+  {
+    "path": "models/wan_transformer3d.py",
+    "sha256": "29d043e38b09851ffb0bc9453eb53f51c9aef90f70863b39bd44b9acfc1ab114"
+  },
+  {
+    "path": "models/wan_vae.py",
+    "sha256": "efbea6653a7db65ac740668c460e3215c8727db6af5973069233a6595d6b6e1d"
+  },
+  {
+    "path": "models/wan_vae3_8.py",
+    "sha256": "ea07423ffffbe1661bd610addc30a70781f40bfbbadedf221c23b2c73da84ff5"
+  },
+  {
+    "path": "pipeline/__init__.py",
+    "sha256": "d348ab676eb0587265c384f2efcc446787716f825f00c9473e0137bb23a84469"
+  },
+  {
+    "path": "pipeline/pipeline_causal_camera.py",
+    "sha256": "eedf32baff966a1ece98070e9837d34748fa0c510aeee06a6865e9af8b97a65c"
+  },
+  {
+    "path": "pipeline/pipeline_dreamxworld.py",
+    "sha256": "b4922effcf0d757f28cc743706825807f963bc2f3a98bb6f3a3d0f0cda5cb7b5"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "5856b89e09fbd340087bef71b250d8631fb6c5422ad867f10ab13079def099c3"
+  },
+  {
+    "path": "utils/__init__.py",
+    "sha256": "46990901e74fc8eb12d5f295ccffe72417bb2876ddfa4d5f210b23016d59254b"
+  },
+  {
+    "path": "utils/ac_handle.py",
+    "sha256": "2c32ab4a9c3fe0fcbf10382fdfaf2d25fcb93e0a27c0fdf6a05b40df0c22b31b"
+  },
+  {
+    "path": "utils/checkpoint_identity.py",
+    "sha256": "91e7d9e868d3049e9358faa61ee1158d134ce6dbe7e0303ce46c7a45689d0b6b"
+  },
+  {
+    "path": "utils/discrete_sampler.py",
+    "sha256": "864dc3a68848b7a453ae313947ffc1ee1075d034ce1fa4a32c60d11e3e1555d4"
+  },
+  {
+    "path": "utils/fm_solvers.py",
+    "sha256": "f083ac101adc628c68e156a8a8cbc705020793d76d981b172dcacf33e73f43eb"
+  },
+  {
+    "path": "utils/fm_solvers_unipc.py",
+    "sha256": "54c58e557d0f7dfaf118546aa6a8637ce1a006c88f66e9141870ebc157627935"
+  },
+  {
+    "path": "utils/fp8_optimization.py",
+    "sha256": "92fa1a518e119b8f1692ee5a864df5473ebfd3dc524ed399202c0adcdde3a0be"
+  },
+  {
+    "path": "utils/inference_utils.py",
+    "sha256": "9b0499d1190849bb8a8452851111d3bfbaa45531e875f2bbbf60724efb2655c7"
+  },
+  {
+    "path": "utils/lora_peft.py",
+    "sha256": "d7014ba248ca08099f6dab404cd6ca0f60e250f208425f0bd457cb3c92fc6655"
+  },
+  {
+    "path": "utils/lora_utils.py",
+    "sha256": "d7d61f950847c1988595bdf55462ef3d43f20c15fe87ca9c8ade8b96bb211faf"
+  },
+  {
+    "path": "utils/map_camera_align.py",
+    "sha256": "c32ffdbe7270c0ec7eabd9f751815810dcfd05e578356f6765f5a8287744b1fa"
+  },
+  {
+    "path": "utils/map_first_adapter_runtime.py",
+    "sha256": "3f80d45af08d46f7e2537b90e18fe396160aa4169c18689496a96259e479fcc5"
+  },
+  {
+    "path": "utils/map_layout_condition.py",
+    "sha256": "db4ab253fc21aa67d9d1695820b8cd5d1ddb7f3818f4d75be58315cedaef4b2e"
+  },
+  {
+    "path": "utils/map_parser.py",
+    "sha256": "425a41926a65895076c500f342621b57827ead9e511c5513db1147a35bc59ef4"
+  },
+  {
+    "path": "utils/map_route_parser.py",
+    "sha256": "ea30eb5092ff42d9406101887e5b7d1159481956c55ed57e08a0f9301f8c90ba"
+  },
+  {
+    "path": "utils/map_tile_router.py",
+    "sha256": "080a99deb7cc418a069e511a1eeb0e2b59fe51cff180028f3c0a6bf594060186"
+  },
+  {
+    "path": "utils/map_trajectory.py",
+    "sha256": "da5640b10a644c6f706a71a2c0c71d9cd7ba6bf18b2084f922e8119a5f14bfa9"
+  },
+  {
+    "path": "utils/map_utils.py",
+    "sha256": "86b52b77daaaf2edfbb3b45549559a7661fcfe4357dfb2316286d9ca362de029"
+  },
+  {
+    "path": "utils/memory.py",
+    "sha256": "ca0b31c93019f802e1312d512591ae6bea35b450064cdde19b6202779f50bb7f"
+  },
+  {
+    "path": "utils/misc.py",
+    "sha256": "610bead16d50d99fabdccb2e9ce3c20fa1fa1cd3bdf735d7ff7ffda978bfe195"
+  },
+  {
+    "path": "utils/parallel_tiled_vae.py",
+    "sha256": "4aa8ccc691d89f2527bcf2276865cd7c5d6c032939e165fbdec7f617ac927029"
+  },
+  {
+    "path": "utils/pose_utils.py",
+    "sha256": "40330fb4097b6135193f0e3b9b2a8e79969b7e17fa3ef95d422f58beece525b2"
+  },
+  {
+    "path": "utils/postprocess.py",
+    "sha256": "0242f3c9d16d697e3c7c5f2211331f9ff8c171dfc6602a384f4df43ad3ff72cf"
+  },
+  {
+    "path": "utils/reactive_nav.py",
+    "sha256": "075cafe56b9fda4671ea6d3c83494db7a9160b7d72581b1467a392ebfebeed52"
+  },
+  {
+    "path": "utils/residual_reuse.py",
+    "sha256": "ac1a56b876eedb5029020b480bd7c3ef4460301c9281916aa98b78c8ef6e0bd5"
+  },
+  {
+    "path": "utils/route_metric.py",
+    "sha256": "63d6eae13d054e8083bb152a64694950efed4457bf448352341e720dfbd6ee8e"
+  },
+  {
+    "path": "utils/route_to_actions.py",
+    "sha256": "ae93d4eaaf764403f241c2a67f65b25a8490ea8e2178d7dce807025975e19d6d"
+  },
+  {
+    "path": "utils/route_vectorizer.py",
+    "sha256": "c150f38da7f8d3deb939cb61193822449cd4a3c1721985229e989c6ec22dae7f"
+  },
+  {
+    "path": "utils/runtime_profile.py",
+    "sha256": "175d7c033fcf0e0695ebf81934f03ecac0975240e5e2aad890b079610b4fd0e5"
+  },
+  {
+    "path": "utils/scheduler.py",
+    "sha256": "4194ef1324bb06527621749c7f9a82f431ccf011823aa65099cb7bdf116b642e"
+  },
+  {
+    "path": "utils/semantic_layout_condition.py",
+    "sha256": "96e093c932f1c3dc59c6aa3970eb6b2264ea8ccaeaa97dbe9a7f60865d7eb88b"
+  },
+  {
+    "path": "utils/semantic_layout_training_data.py",
+    "sha256": "28ebd75f2ef32f3fc87eeb00729d35e4e1ad3ce29861c927503f64d842b8ab11"
+  },
+  {
+    "path": "utils/trajectory_processor.py",
+    "sha256": "cb51e9df7e95a93c241719cab71509213be1bd8fc69f690f2090f664ef009e2d"
+  },
+  {
+    "path": "utils/utils.py",
+    "sha256": "46ec21e6ac5b76a2b165fcdaf39993b10cd1ab34f4e4685da2c93c73653e8d19"
+  },
+  {
+    "path": "utils/wan_wrapper.py",
+    "sha256": "bb201006688f2cbc25ef78bf0b6919410eb849d85152a7f91b8ec6ce929e48a9"
+  },
+  {
+    "path": "utils/warp_fill_prior.py",
+    "sha256": "97dd290d6266202cba356b0bb33e25589a26098fca8c031a2278a50838c7c936"
+  },
+  {
+    "path": "utils/world_3d_map.py",
+    "sha256": "e18d43e19a9e4f4e5e815872f56dae16f9972bb5fe51b2f972f68f07f5e01c6e"
+  },
+  {
+    "path": "utils/world_canvas.py",
+    "sha256": "973d9b3d341846dc971590d72fcb1decd6fe19caf33f13a24b8c7d1203410578"
+  },
+  {
+    "path": "utils/world_latent_cache.py",
+    "sha256": "170f1d1a7c704f8215411125b16a6d716f5780a12a25f2ba62970d33f065dbca"
+  },
+  {
+    "path": "utils/world_tile_cache.py",
+    "sha256": "3f8294ed27ef91b22dc7db318e8c23801a36aabae740970f08b3421d792d65a9"
+  },
+  {
+    "path": "utils/world_warm_start.py",
+    "sha256": "8cb31ada19c4dc3f0ff72752dcccf01471e8284b4cd1866ed1a0ff8023e0d888"
+  }
+]
