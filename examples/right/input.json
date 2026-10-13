@@ -1,0 +1,13 @@
+[
+  {
+    "task_id": "map10_right_turn_preview_seed42",
+    "image_path": "inputs/map10/junction_start.png",
+    "caption": "Photorealistic continuous eye-level walking camera at the open four-way junction in the reference image. Enter the junction gently and make one smooth RIGHT turn by approximately 90 degrees onto the cross street, then continue walking forward along the cross street. At the start the tree-covered park is across the junction on the right, with open paved parking on the left. As the camera turns right, the park and its mature trees move to the LEFT side of the outgoing street. Brick town buildings are on the RIGHT side of that outgoing street. Keep a continuous open roadway, upright buildings, stable sunny daylight, parked cars and the same street materials. Natural forward walking and smooth camera yaw. One take, no cut, no zoom, no teleportation.",
+    "seed": 42,
+    "action_speed_list": [
+      1.6692156929483608
+    ],
+    "route_polyline_source": "examples/right/clip_route.json",
+    "negative_prompt_extra": "left turn, U-turn, repeated turning, navigation UI, map overlay, satellite view, aerial view, text, watermark, canal, river, bridge, wall across the road, dead end, teleportation, hard cut, tilted horizon, oversaturated colors, rainbow artifacts, warped buildings, flicker, horizontal streaks"
+  }
+]
