@@ -76,3 +76,7 @@ The source snapshots are copied unchanged from the working project; the portable
 
 Based on DreamX-World by the DreamX Team and the Wan model family. The original project README is preserved in docs/DREAMX_UPSTREAM_README.md. The source license is included as LICENSE; third-party notices in individual source files, including PRoPE's MIT notice, are retained. Checkpoint assets are separately distributed and retain their own terms.
 
+
+## A800 live generation
+
+The deployed keyboard/cruise demo and server-map thumbnail chooser are preserved in [a800_live](a800_live/README.md). See its installation requirements and limitations before launching a GPU owner.
