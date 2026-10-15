@@ -1,0 +1,14 @@
+{
+  "original_caption": {
+    "label": "原始右转描述（对照）",
+    "caption": "Photorealistic continuous eye-level walking camera at the open four-way junction in the reference image. Enter the junction gently and make one smooth RIGHT turn by approximately 90 degrees onto the cross street, then continue walking forward along the cross street. At the start the tree-covered park is across the junction on the right, with open paved parking on the left. As the camera turns right, the park and its mature trees move to the LEFT side of the outgoing street. Brick town buildings are on the RIGHT side of that outgoing street. Keep a continuous open roadway, upright buildings, stable sunny daylight, parked cars and the same street materials. Natural forward walking and smooth camera yaw. One take, no cut, no zoom, no teleportation."
+  },
+  "neutral_scene": {
+    "label": "通用街景（新版）",
+    "caption": "Style: Photorealistic. A continuous first-person street-level view of the urban environment shown in the reference image. Realistic building materials, detailed brick facades and window frames, clearly defined curbs and road surfaces, mature trees and parked vehicles. Natural daylight, consistent exposure and coherent perspective. The camera follows the supplied camera poses in one continuous shot."
+  },
+  "detailed_scene": {
+    "label": "细节描述（新版）",
+    "caption": "Style: Photorealistic. A continuous first-person, eye-level view grounded in the supplied street reference image. Brick facades retain coherent masonry patterns, straight window frames and stable architectural proportions. Curbs, sidewalks, road markings, trees and parked vehicles remain spatially coherent across successive views. Natural daylight with consistent exposure, realistic surface texture and balanced contrast. Preserve the appearance and identity of visible buildings as the viewpoint changes. Camera direction and movement follow the supplied camera poses. One continuous shot."
+  }
+}

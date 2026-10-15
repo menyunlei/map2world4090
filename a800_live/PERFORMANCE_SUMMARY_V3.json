@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-16",
+  "native_dimensions": [
+    768,
+    448
+  ],
+  "target_fps": 16,
+  "paired_test": {
+    "same_noise_cameras_and_all285_native_RGB_exact": true,
+    "original_seconds": 19.296026485972106,
+    "new_seconds": 15.729782426729798,
+    "fresh_frames_counted": 284,
+    "original_fresh_native_fps": 14.718056083021203,
+    "new_fresh_native_fps": 18.05492233111855,
+    "single_paired_run_not_statistical_benchmark": true,
+    "includes_native_decode_and_archive": true
+  },
+  "interactive_test": {
+    "native_frames": 3069,
+    "duration_seconds": 191.8125,
+    "full_OpenCV_and_FFmpeg_decode": true,
+    "all_rawchunk_RGB_hashes_match": true,
+    "reported_display_frames": 3040,
+    "mean_interval_ms": 62.498848305363616,
+    "p95_interval_ms": 67.5,
+    "max_interval_ms": 100.1,
+    "dropped": 0,
+    "input_marker_to_display_ms": [
+      1394.6,
+      1026.2,
+      1591.1,
+      1076.9
+    ],
+    "independent_RGB_motion_onset_measurement": false
+  },
+  "game_like_immediate_control_achieved": false,
+  "quality_acceptance": false,
+  "geographic_fidelity_acceptance": false,
+  "revisit_identity_acceptance": false
+}

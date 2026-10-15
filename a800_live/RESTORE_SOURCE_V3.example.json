@@ -1,0 +1,23 @@
+{
+  "native_width": 768,
+  "native_height": 448,
+  "quality": "native768",
+  "memory_enabled": true,
+  "prompt": {
+    "preset": "neutral_scene",
+    "label": "通用街景（新版）",
+    "caption": "Style: Photorealistic. A continuous first-person street-level view of the urban environment shown in the reference image. Realistic building materials, detailed brick facades and window frames, clearly defined curbs and road surfaces, mature trees and parked vehicles. Natural daylight, consistent exposure and coherent perspective. The camera follows the supplied camera poses in one continuous shot.",
+    "caption_sha256": "a9afdc86f66f26c8e1d27316c3b4e3764e1602aae390b6c5009b25a6538b6755"
+  },
+  "map_path": "/path/to/approved/map.png",
+  "map_file_sha256": "REPLACE_WITH_MAP_FILE_SHA256",
+  "map_revision_id": "your-map-revision",
+  "map_tokens_sha256": null,
+  "map_record": {
+    "file_name": "map.png"
+  },
+  "map_source_size": [
+    1080,
+    2400
+  ]
+}
